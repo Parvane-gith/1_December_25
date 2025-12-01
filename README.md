@@ -1,2 +1,3 @@
 # 1_December_25
-Hello, this is Parvina, I'm learning GitHub.Now I am enetering using commands Linux
+Hello, this is Parvina, I'm learning GitHub.Now I am enetering using commands Linux.
+Working on Linux commands.
